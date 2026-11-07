@@ -1,4 +1,12 @@
 
+# Ignora todos os arquivos
+*
+
+# Ignora diretórios
+*/
+
+# Permite arquivos C
 !*.c
 
+# Permite o próprio .gitignore
 !.gitignore
